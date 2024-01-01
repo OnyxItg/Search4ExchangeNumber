@@ -1,0 +1,591 @@
+<?xml version="1.0"?>
+<en>
+  <EnglishName>English</EnglishName>
+  <LocalName>English</LocalName>
+  <LanguageID>0409</LanguageID>
+  <Right2Left>False</Right2Left>
+  <NewContact>New Contact</NewContact>
+  <!--******************************Numbers**********************************-->
+  <Zero>Zero</Zero>
+  <!--**************************End Numbers**********************************-->
+  <MigrateNoticeTemplates>Migrate Notice Templates</MigrateNoticeTemplates>
+  <!--******************************Menues***********************************-->
+  <ManifestTemplate_Menu>Manifest &amp;Templates</ManifestTemplate_Menu>
+  <MigrateNoticeTemplates_Menu>Migrate &amp;Notice Templates</MigrateNoticeTemplates_Menu>
+  <File_Menu>&amp;File</File_Menu>
+    <Database_Menu>&amp;Database</Database_Menu>
+      <DBSettings_Menu>Database &amp;Settings</DBSettings_Menu>
+      <CreateNewDatabase_Menu>Create &amp;New Database</CreateNewDatabase_Menu>
+      <DBConnect_Menu>&amp;Connect to Database</DBConnect_Menu>
+      <AttachtoDatabase_Menu>&amp;Attach to Database</AttachtoDatabase_Menu>
+      <BackupDatabase_Menu>&amp;Backup Database</BackupDatabase_Menu>
+      <RestoreDatabase_Menu>&amp;Restore Database</RestoreDatabase_Menu>
+      <CustomersDB_Menu>C&amp;ustomers Database</CustomersDB_Menu>
+    <AddCustomer_Menu>&amp;Add Customer</AddCustomer_Menu>
+    <Save_Menu>&amp;Save</Save_Menu>
+    <SaveMenu2>Sa&amp;ve</SaveMenu2>
+    <AddCustomer_Menu>Add C&amp;ustomer</AddCustomer_Menu>
+    <PrintTodayAccount>Print Today Accou&amp;nt</PrintTodayAccount>
+    <MultiShippingCommitment_Menu>Multi Shipping Commitment</MultiShippingCommitment_Menu>
+    <PrintShippingCommitmentOnA4_Menu>Print Shipping Commitment On A4</PrintShippingCommitmentOnA4_Menu>
+    <PrintCommitmentOfReceiptLostDelivery_Menu>Print Commitment Of Receipt Lost Delivery</PrintCommitmentOfReceiptLostDelivery_Menu>
+    <PrintPreview_Menu>Print Pre&amp;view</PrintPreview_Menu>
+    <PrintOptions_Menu>PrintOptions</PrintOptions_Menu>
+    <PrintDefaults_Menu>Print De&amp;faults</PrintDefaults_Menu>
+    <Minimize_Menu>Minimize</Minimize_Menu>
+    <Exit_Menu>E&amp;xit</Exit_Menu>
+  <Edit_Menu>&amp;Edit</Edit_Menu>
+    <Search_Menu>&amp;Search</Search_Menu>
+    <SearchOptions_Menu>Search &amp;Options</SearchOptions_Menu>
+    <SearchInField_Menu>Search &amp;In Field</SearchInField_Menu>
+      <FullName_Menu>F&amp;ull Name</FullName_Menu>
+      <TheName_Menu>&amp;Name</TheName_Menu>
+	  <NationalNo_Menu>&amp;Identity No</NationalNo_Menu>
+      <FatherName_Menu>&amp;Father Name</FatherName_Menu>
+      <LastName_Menu>&amp;Last Name</LastName_Menu>
+    <FirstRecord_Menu>&amp;First Record</FirstRecord_Menu>
+    <LastRecord_Menu>&amp;Last Record</LastRecord_Menu>
+    <PreviousRecord_Menu>&amp;Previous Record</PreviousRecord_Menu>
+    <NextRecord_Menu>&amp;Next Record</NextRecord_Menu>
+  <View_Menu>&amp;View</View_Menu>
+    <TheLanguage_Menu>&amp;Language</TheLanguage_Menu>
+  <Data_Menu>&amp;Data</Data_Menu>
+    <ReviewRecords_Menu>&amp;Review Records</ReviewRecords_Menu>
+    <ExportDataToExcel_Menu>&amp;Export Data To Excel</ExportDataToExcel_Menu>
+    <ImportBankMenu_Menu>&amp;Import Bank BlackMenu</ImportBankMenu_Menu>
+  <Photo_Menu>P&amp;hoto</Photo_Menu>
+    <CaptureImage_Menu>&amp;Capture Image</CaptureImage_Menu>
+      <Photo1_Menu>Photo&amp;1</Photo1_Menu>
+      <Photo2_Menu>Photo&amp;2</Photo2_Menu>
+      <OtherDocuments_Menu>&amp;Other Documents</OtherDocuments_Menu>
+    <SynchronizeImagesNow_Menu>&amp;Synchronize Images Now</SynchronizeImagesNow_Menu>
+    <RegisterFinger_Menu>&amp;Register Fingerprint</RegisterFinger_Menu>
+    <VerifyFinger_Menu>&amp;Verify Fingerprint</VerifyFinger_Menu>
+  <Settings_Menu>&amp;Settings</Settings_Menu>
+    <BarcodePort_Menu>&amp;Barcode Port</BarcodePort_Menu>
+    <Scanner_Menu>&amp;Scanner</Scanner_Menu>
+    <TheProfiles_Menu>&amp;Profiles</TheProfiles_Menu>
+    <ViewSettings_Menu>&amp;View Settings</ViewSettings_Menu>
+    <GeneralSettings_Menu>&amp;General Settings</GeneralSettings_Menu>
+    <ExportSettings_Menu>E&amp;xport Settings</ExportSettings_Menu>
+    <ImportSettings_Menu>&amp;Import Settings</ImportSettings_Menu>
+  <Users_Menu>&amp;Users</Users_Menu>
+    <NormalUser_Menu>&amp;Normal User</NormalUser_Menu>
+    <SuperUser_Menu>&amp;Super User</SuperUser_Menu>
+    <Administrator_Menu>&amp;Administrator</Administrator_Menu>
+    <EditPrivileges_Menu>&amp;Edit Privileges</EditPrivileges_Menu>
+    <ChangePassword_Menu>&amp;Change Password</ChangePassword_Menu>
+  <Queries_Menu>&amp;Queries</Queries_Menu>
+    <ViewChangesRecord_Menu>View &amp;Changes Record</ViewChangesRecord_Menu>
+    <ViewVisitsRecord_Menu>View &amp;Visits Record</ViewVisitsRecord_Menu>
+  <Help_Menu>&amp;Help</Help_Menu>
+    <RegisterProgram_Menu>&amp;Register</RegisterProgram_Menu>
+    <CheckForUpdates_Menu>&amp;Check For Updates</CheckForUpdates_Menu>
+    <PrepareUpdates_Menu>&amp;Prepare Updates</PrepareUpdates_Menu>
+    <UpdateProgram_Menu>&amp;Update Program</UpdateProgram_Menu>
+    <UploadCertFileIntoDatabase_Menu>Upload &amp;CertFile Into Database</UploadCertFileIntoDatabase_Menu>
+    <AboutProgram_Menu>&amp;About Program</AboutProgram_Menu>
+  
+  <Commitment_Menu>&amp;Commitment</Commitment_Menu>
+  <IdentityPhotos_Menu>Identity Photos</IdentityPhotos_Menu>
+  <TheFingerprint_Menu>Fingerprint</TheFingerprint_Menu>
+  <Browse_Menu>Bro&amp;wse</Browse_Menu>
+  <Load_Menu>&amp;Load</Load_Menu>
+  <Female_Menu>&amp;Fe</Female_Menu>
+  <Male_Menu>&amp;Ma</Male_Menu>
+  <Import_Menu>&amp;Import</Import_Menu>
+  <Cancel_Menu>&amp;Cancel</Cancel_Menu>
+  <AddToPrevious_Menu>&amp;Add To Previous Menu</AddToPrevious_Menu>
+  <CreateNew_Menu>Create &amp;New Menu</CreateNew_Menu>
+  <EnableUsingBlack_Menu>&amp;Enable Using Black Menu</EnableUsingBlack_Menu>
+  <OK_Menu>&amp;OK</OK_Menu>
+  <ShowPassword>Show Password</ShowPassword>
+  <UseLocalPC_Menu>Use &amp;Local PC</UseLocalPC_Menu>
+  <LoginUsingWindowsAuthintication_Menu>Login Using &amp;Windows Authintication</LoginUsingWindowsAuthintication_Menu>
+  <Connect2DBAfterAttach>Co&amp;nnect To Database After Attach</Connect2DBAfterAttach>
+  <TestConnection_Menu>&amp;Test Connection</TestConnection_Menu>
+  <Connect2DB>Connect to Database</Connect2DB>
+  <AttachDBFiles>Attach Database Files</AttachDBFiles>
+  <Connect2DBAfterCreate_Menu>Connect To Database &amp;After Create</Connect2DBAfterCreate_Menu>
+  <CreateDB_Menu>C&amp;reate Database</CreateDB_Menu>
+  <AutoLoginByCurrentUser_Menu>&amp;Auto Login By Current User</AutoLoginByCurrentUser_Menu>
+  <Close_Menu>&amp;Close</Close_Menu>
+	<Add_Menu>&amp;Add</Add_Menu>
+  <Save2File_Menu>&amp;Save to File</Save2File_Menu>
+  <RunAtstartup_Menu>&amp;Run Program At Windows Startup</RunAtstartup_Menu>
+  <TopMost_Menu>Program Window Always In &amp;Top</TopMost_Menu>
+  <StartInMiniWindow_Menu>Start Program In &amp;Mini Window</StartInMiniWindow_Menu>
+  <ViewAllRecords1_Menu>View &amp;All Records</ViewAllRecords1_Menu>
+  <ViewAllRecords2_Menu>View A&amp;ll Records</ViewAllRecords2_Menu>
+  <ViewLimitedNoOfRecords1_Menu>View L&amp;imited Number Of Records</ViewLimitedNoOfRecords1_Menu>
+  <ViewLimitedNoOfRecords2_Menu>View Li&amp;mited Number Of Records</ViewLimitedNoOfRecords2_Menu>
+  <PhotoNotClear1_Menu>&amp;Photo Not Clear</PhotoNotClear1_Menu>
+  <PhotoNotClear2_Menu>P&amp;hoto Not Clear</PhotoNotClear2_Menu>
+  <NoPhoto1_Menu>No ID Ph&amp;oto</NoPhoto1_Menu>
+  <NoPhoto2_Menu>No ID Pho&amp;to</NoPhoto2_Menu>
+  <EmptyFields_Menu>&amp;Empty Fields</EmptyFields_Menu>
+  <Print_Menu>&amp;Print</Print_Menu>
+  <Print2_Menu>Pri&amp;nt</Print2_Menu>
+  <PrintMulti_Menu>&amp;Multi Print</PrintMulti_Menu>
+  <LoadFromDB1_Menu>Load From &amp;Database</LoadFromDB1_Menu>
+  <LoadFromLocalPC1_Menu>Load From Local Comp&amp;uter</LoadFromLocalPC1_Menu>
+  <LoadFromDB2_Menu>Load From Data&amp;base</LoadFromDB2_Menu>
+  <LoadFromLocalPC2_Menu>Load From &amp;Local Computer</LoadFromLocalPC2_Menu>
+  <UseDefaultPrinter_Menu>Use &amp;Default Printer</UseDefaultPrinter_Menu>
+  <Restore_Menu>&amp;Restore</Restore_Menu>
+  <FileNameWithPath_Menu>&amp;File Name With Full Path</FileNameWithPath_Menu>
+  <NewDBName_Menu>New Database &amp;Name</NewDBName_Menu>
+  <NewDBPath_Menu>New Database &amp;Path</NewDBPath_Menu>
+  <Connect2NewDB_Menu>&amp;Connect To New Database</Connect2NewDB_Menu>
+  <DeviceManager_Menu>&amp;Device Manager</DeviceManager_Menu>
+  <CentralBankMenu>Central Bank Menu</CentralBankMenu>
+  <EnableCentralBankBlackMenu>Enable &amp;Central Bank Black Menu</EnableCentralBankBlackMenu>
+  <DoNotActivate_Menu>Do &amp;Not Activate</DoNotActivate_Menu>
+  <Activate4All_Menu>Activate For &amp;All Customers</Activate4All_Menu>
+  <Activate4BlackMenu_Menu>Activate For Black Menu &amp;Only</Activate4BlackMenu_Menu>
+  <ViewImagesAfterCapturing_Menu>&amp;View Images After Capturing If Window Is Minimized</ViewImagesAfterCapturing_Menu>
+  <FlipImage180_Menu>&amp;Flip Image 180 Degrees</FlipImage180_Menu>
+  <SaveInDB_Menu>Save In &amp;Database</SaveInDB_Menu>
+  <SaveInFolder_Menu>Save In &amp;Folder To Synchronize Later</SaveInFolder_Menu>
+  <UseThumbnails_Menu>Use &amp;Thumbnails</UseThumbnails_Menu>
+  <!--***************************End Menues**********************************-->
+  <!--**************************Data Fields**********************************-->
+  <FullName>Full Name</FullName>
+  <TheName>Name</TheName>
+  <LastName>Last Name</LastName>
+  <TheFather>The Father</TheFather>
+  <FatherName>Father Name</FatherName>
+  <TheMother>Mother Name</TheMother>
+  <TheFamily>Family</TheFamily>
+  <BiName>Name &amp; Family</BiName>
+	<NationalNo>National Number</NationalNo>
+  <DateCreated>Date Created</DateCreated>
+  <DateTimeCreated>DateTime Created</DateTimeCreated>
+  <DateModified>Modification Date</DateModified>
+  <DateTimeModified>Modification DateTime</DateTimeModified>
+  <BirthDay>BirthDay</BirthDay>
+  <BirthDayName>BirthDayName</BirthDayName>
+  <BirthMonth>BirthMonth</BirthMonth>
+  <BirthMonthName>BirthMonthName</BirthMonthName>
+  <BirthYear>BirthYear</BirthYear>
+  <IssueDay>IssueDay</IssueDay>
+  <IssueDayName>IssueDayName</IssueDayName>
+  <IssueMonth>IssueMonth</IssueMonth>
+  <IssueMonthName>IssueMonthName</IssueMonthName>
+  <IssueYear>IssueYear</IssueYear>
+  <ComputerIP>ComputerIP</ComputerIP>
+  <UserName>UserName</UserName>
+  <ComputerName>ComputerName</ComputerName>
+  <Photo1>Photo1</Photo1>
+  <Photo2>Photo2</Photo2>
+  <Fingerprint>Fingerprint</Fingerprint>
+  <Male>Male</Male>
+  <Female>Female</Female>
+  <Gender>Gender</Gender>
+  <Nationality>Nationality</Nationality>
+  <!--************************End Data Fields********************************-->
+  <!--****************************Labels*************************************-->
+  <DeliveryOffice>Delivery Office</DeliveryOffice>
+  <DeliveryOffices>Delivery Offices</DeliveryOffices>
+  <Destination>Destination</Destination>
+  <TemplateName>Template Name</TemplateName>
+  <ManifestTemplateSelect>Manifest Template Select</ManifestTemplateSelect>
+  <SelectManifestTemplate>Select Manifest Template</SelectManifestTemplate>
+  <CurrentBranch>Current Branch</CurrentBranch>
+  <CurrentDelivery>Current Delivery</CurrentDelivery>
+  <DefineAsCurrentBranch>Define As Current Branch</DefineAsCurrentBranch>
+  <DefineCurrentOffice>Define Current Delivery Office</DefineCurrentOffice>
+  <Outcoming>Outcoming</Outcoming>
+  <Incoming>Incoming</Incoming>
+  <Major>Major</Major>
+  <Active>Active</Active>
+  <SiteAddress>Site Address</SiteAddress>
+  <License>License</License>
+  <TheNumber>Number</TheNumber>
+  <Syria>Syria</Syria>
+  <PasteSlices>Paste Slices</PasteSlices>
+  <CopySlices>Copy Slices</CopySlices>
+  <ContactType>Contact Type</ContactType>
+  <ContactInfo>Contact Information</ContactInfo>
+  <OtherDocuments>Other Documents</OtherDocuments>
+  <CreateNewDB>Create New Database</CreateNewDB>
+  <ChangesRecord>Record Of Changes For: </ChangesRecord>
+  <Path>Path</Path>
+  <TempStorageFile>Temp Storage File (LDF):</TempStorageFile>
+  <DBFile>Database File (MDF):</DBFile>
+  <Password>Password</Password>
+  <AllCards>All Cards</AllCards>
+  <InfoCompletion>Info Completion</InfoCompletion>
+  <BlackMenu>Black Menu</BlackMenu>
+  <TheCustomer>Customer</TheCustomer>
+  <CardNo>Card No</CardNo>
+  <Card>Card</Card>
+  <FullName>Full Name</FullName>
+  <Nationality>Nationality</Nationality>
+  <Bond>Bond</Bond>
+  <IssueDate>Issue Date</IssueDate>
+  <IssuePlace>Issue Place</IssuePlace>
+  <Phone>Phone</Phone>
+  <Mobile>Mobile</Mobile>
+  <Address>Address</Address>
+  <BirthPlace>Birth Place</BirthPlace>
+  <BirthDate>Birth Date</BirthDate>
+  <FatherName>Father Name</FatherName>
+  <Father>Father</Father>
+  <MotherName>Mother Name</MotherName>
+  <TrialVersion>Trial Version</TrialVersion>
+  <IdentityPhotos>Identity Photos</IdentityPhotos>
+  <ExpiryDate>Expiry Date</ExpiryDate>
+  <DocumentName>Document Name</DocumentName>
+  <SearchInField>Search In Field</SearchInField>
+  <InField>In Field</InField>
+  <SearchAbout>Search About</SearchAbout>
+  <ExcelImportMassage>Notice: If you want to import data correctly make sure that all data is in the first page of excel worksheet and the data is in the following order:</ExcelImportMassage>
+  <ExcelOrder>Sequence  -  Identity No  -  Name  -  Father Name  -  Mother Name  -  Birth Date</ExcelOrder>
+  <SelectExcelFileToImport>Select Excel File To Import</SelectExcelFileToImport>
+  <ImportOptions>Import Options</ImportOptions>
+  <ImportCentralBankBlackMenu>Import Central Bank Black Menu</ImportCentralBankBlackMenu>
+  <AdministratorPassword>Administrator Password</AdministratorPassword>
+  <SuperUserPassword>Super User Password</SuperUserPassword>
+  <ConfirmNewPassword>Confirm New Password</ConfirmNewPassword>
+  <NewPassword>New Password</NewPassword>
+  <ChangePassword>Change Password</ChangePassword>
+  <ServerName>Server Name</ServerName>
+  <UserInfo>User Information</UserInfo>
+  <DBName>DataBase Name</DBName>
+  <DefinePrintDefaults>Define Print Defaults</DefinePrintDefaults>
+  <EmptyFieldsAfterUsingProfile>Empty Fields After Using Profile</EmptyFieldsAfterUsingProfile>
+  <DefaultProfile>Default Profile</DefaultProfile>
+  <ErasePrevValuesBeforeCopyProfile>Erase Previous Values Before Copying Profile</ErasePrevValuesBeforeCopyProfile>
+  <AvailableFields>Available Fields</AvailableFields>
+  <UsedFields>Used Fields</UsedFields>
+  <Text>Text</Text>
+  <Control>Controls</Control>
+  <TheKey>Key</TheKey>
+  <DateFormula>Date Formula</DateFormula>
+  <Example>Example</Example>
+  <ProfileName>Profile Name</ProfileName>
+  <SyrianID>Syrian ID Card</SyrianID>
+  <IdentityInfo>ID Card Information</IdentityInfo>
+  <PhoneNo>Phone No</PhoneNo>
+  <MobileNo>Mobile No</MobileNo>
+  <UsedProfiles>Used Profiles</UsedProfiles>
+  <UserProfiles>User Profiles</UserProfiles>
+  <ProfilesOptions>Profiles Options</ProfilesOptions>
+  <DefaultProfiles>Default Profiles</DefaultProfiles>
+  <KeyboardShortcut>Keyboard Shortcut</KeyboardShortcut>
+  <DatabaseNotAssigned>Database Not Assigned...</DatabaseNotAssigned>
+  <CurrentDeliveryOfficeNotAssigned>Current Office Not Assigned...</CurrentDeliveryOfficeNotAssigned>
+  <DeleteProfile>Delete Profile</DeleteProfile>
+  <RecordsInMainWindow>Number Of Records Viewed In Main Window</RecordsInMainWindow>
+  <RecordsInSearch>Number Of Records Viewed In Search Window</RecordsInSearch>
+  <UpdateTableEvery>&amp;Update Table Every</UpdateTableEvery>
+  <!--**************************End Labels***********************************-->
+  <!--***************************Buttons*************************************-->
+  <CaptureImage>&amp;Capture Image</CaptureImage>
+  <!--*************************End Buttons***********************************-->
+  <DBnotConnected>DB Not Connected</DBnotConnected>
+  <ServerNotConnected>Server Not Connected</ServerNotConnected>
+  <CommercialRecord>Commercial Record</CommercialRecord>
+  <StayingPaper>Staying Paper</StayingPaper>
+  <AssociationCard>Association Card</AssociationCard>
+  <ElectricityBill>Electricity Bill</ElectricityBill>
+  <PhoneBill>Phone Bill</PhoneBill>
+  <WaterBill>Water Bill</WaterBill>
+  <InputAdministratorPassword>Input Administrator Password</InputAdministratorPassword>
+  <Brochures>Brochures</Brochures>
+  <BrochureDate>Brochure Date</BrochureDate>
+  <CrossAndMigrate>Cross And Migrate</CrossAndMigrate>
+  <ContentProperties>Content Properties</ContentProperties>
+  <ContentType>Contents Type</ContentType>
+  <SoundFile>Sound File</SoundFile>
+  <CustomersAnnouncementNumber>Customers Announcement Number</CustomersAnnouncementNumber>
+  <InputNoticeNo>Input Notice Number</InputNoticeNo>
+  <BringToFront>Bring To Front</BringToFront>
+  <SendToBack>Send To Back</SendToBack>
+  <NoMatches>No Matches</NoMatches>
+  <ViewBooksBetween>View Books Between</ViewBooksBetween>
+  <!--*****************************Messages**********************************-->
+	<InputNoticeNo>Input Notice Number Please</InputNoticeNo>
+	<PrintCommitmentOfNotice>Do You Want To Print Commitment Of Notice No: </PrintCommitmentOfNotice>
+	<NumberAlreadyExists>Number Already Exists</NumberAlreadyExists>
+  <InputNotePlease>Input Notice Please</InputNotePlease>
+  <ContentProperties>Content Properties</ContentProperties>
+  <NumberNotAvailable>This Number Not Available</NumberNotAvailable>
+  <NumberNotFound>Number Not Found</NumberNotFound>
+  <FirstNoOfBooksMust1or6>First Number Of Book Must be 1 or 6</FirstNoOfBooksMust1or6>
+  <DoYWantOverwriteMajorDeliveryOffice>Do You Want To Change Major Delivery Office For This Branch</DoYWantOverwriteMajorDeliveryOffice>
+  <DoYWantOverwriteSlices>Do you want to overwright slices?</DoYWantOverwriteSlices>
+  <ChooseCurrentBranch>Choose Current Branch...</ChooseCurrentBranch>
+  <ChooseCurrentDelivery>Choose Current Delivery...</ChooseCurrentDelivery>
+  <CurrentCenternotDefined>Current Center not Defined</CurrentCenternotDefined>
+  <DoYWant2DeleteRecord>Do You Want To Delete Current Record?</DoYWant2DeleteRecord>
+  <DoYWantCrossThisBook>Do You Want Cross This Book?</DoYWantCrossThisBook>
+  <DoYWantMigrateThisBook>Do You Want Migrate This Book?</DoYWantMigrateThisBook>
+  <AreYSureDeleteProfile>Are you sure to delete this profile?</AreYSureDeleteProfile>
+  <ReachMaxRecordsInTrialVersion>Yuo reach the maximum number of records in trial version.You will not be able to add more records.</ReachMaxRecordsInTrialVersion>
+  <NoListOfSupportedModelsAvalaible>No List Of Supported Models Avalaible</NoListOfSupportedModelsAvalaible>
+  <FingerprintNotConnected>Fingerprint Device Is Not Connected</FingerprintNotConnected>
+  <FingerprintConnected>Fingerprint Device Is Connected</FingerprintConnected>
+  <FingerprintNotDefined>Fingerprint Device Driver Is Not Installed</FingerprintNotDefined>
+  <FingerprintNotConnectedOrNotDefined>Fingerprint Device Is Not Connected Or Driver Is Not Installed</FingerprintNotConnectedOrNotDefined>
+  <BeginFingerprintScanning>Begin Fingerprint Scanning</BeginFingerprintScanning>
+  <SelectExcelFilePlease>Select Excel File Please</SelectExcelFilePlease>
+  <SettingsImportedSuccessfully>Settings Imported Successfully</SettingsImportedSuccessfully>
+  <SettingExportedSuccessfully>Setting Exported Successfully</SettingExportedSuccessfully>
+  <BlackMenuImportedSeccessfully>Black Menu Imported Seccessfully</BlackMenuImportedSeccessfully>
+  <PasswordNotIdentical>Password Not Identical</PasswordNotIdentical>
+  <SQLServerDBFile>SQL Server Databse File</SQLServerDBFile>
+  <SQLServerTempFile>SQL Server Temp File</SQLServerTempFile>
+  <ConnectionConfirm>Confirm Connection</ConnectionConfirm>
+  <SQLServerConnectionError>SQL Server Connection Error</SQLServerConnectionError>
+  <ConnectionError>Connection Error</ConnectionError>
+  <DBNameCantBeEmpty>Database Name Can't Be Empty</DBNameCantBeEmpty>
+  <DBFileNameCantBeEmpty>Database File Name Can't Be Empty</DBFileNameCantBeEmpty>
+  <DBTempFileNameCantBeEmpty>Database TempFile Name Can't Be Empty</DBTempFileNameCantBeEmpty>
+  <FilesAttachedSuccessfully>Files Attached Successfully</FilesAttachedSuccessfully>
+  <FilesNotAttached>An Error Occurred, Failed to Attach Files</FilesNotAttached>
+  <UsernameOrPasswordWrong>Excuse me !User Name Or Password is Wrong</UsernameOrPasswordWrong>
+  <ThereIsNoChanges2ThisRecord>There Is No Changes To This Record</ThereIsNoChanges2ThisRecord>
+  <DoYouWantToSaveChanges>Do You Want To Save Changes?</DoYouWantToSaveChanges>
+  <MobileNotValid>Mobile Number You Entered Is Not Valid</MobileNotValid>
+  <EMailNotValid>EMail Address You Entered Is Not Valid</EMailNotValid>
+  <InputUserNamePlease>Input User Name Please</InputUserNamePlease>
+  <InputPasswordPlease>Input Password Please</InputPasswordPlease>
+  <PasswordNotCorrect>Password Is Not Correct</PasswordNotCorrect>
+  <ErrorHappenedWhileConnect2DB>An error happened while connecting to database, Please check your database settings then restart the program.</ErrorHappenedWhileConnect2DB>
+  <NoVisits>There Is No Visits To This Record</NoVisits>
+  <ShortcutUsed>This shortcut is used by another profile, please select another shortcut.</ShortcutUsed>
+  <ProfileNameCantBeEmpty>Profile Name Can't Be Empty.</ProfileNameCantBeEmpty>
+  <ShorcutCantBeEmpty>Shorcut key can't be empty.</ShorcutCantBeEmpty>
+  <DateFormulaIncorrect>Date formula is incorrect.</DateFormulaIncorrect>
+  <SelectFields>Please select fields you want to use.</SelectFields>
+  <ProfileDefined>Profile defined as default, do you want to define this as default?</ProfileDefined>
+  <BarcodeDllNotFound>This barcode reader not supported or DLL file is messing.</BarcodeDllNotFound>
+  <DoYWant2DeleteEmployee>Do you want to delete this employee from the table?</DoYWant2DeleteEmployee>
+  <SettingsNotAppliedUntilRestart>Settings Not Applied Until Restart Program</SettingsNotAppliedUntilRestart>
+  <NoNoticesFound>No Notices That Matches Search Filters Found</NoNoticesFound>
+  <InputMarkterName>Input Markter Name Please</InputMarkterName>
+  <InputSessionInfo>Input Session Information</InputSessionInfo>
+  <!--***************************End Messages********************************-->
+  <NoticeType>Notice Type</NoticeType>
+  <!--***************************Forms Texts*********************************-->
+  <ManifestInfo>Manifest Information</ManifestInfo>
+  <DeliveryFee>Delivery Fees</DeliveryFee>
+  <GeneralSettings>General Settings</GeneralSettings>
+  <Add2BlackMenu>Add To BlackMenu</Add2BlackMenu>
+  <ReasonAdd2BlackMenu>Reason Of Adding To BlackMenu</ReasonAdd2BlackMenu>
+  <EnteringDate>Entering Date</EnteringDate>
+  <EnteringNotice>Entering Notice</EnteringNotice>
+  <And>And</And>
+  <IHope>Please</IHope>
+  <EnteringExchangeReceiptNo>Entering Exchange Receipt No</EnteringExchangeReceiptNo><!--إدخال رقم الإشعار ضد الدفع والحوالة-->
+  <InputDeclarationNo>Enter Declaration No</InputDeclarationNo>
+  <LogIn>Log In</LogIn>
+  <LoginASSuper>Login AS Super User</LoginASSuper>
+  <LoginASAdmin>Login AS Administrator</LoginASAdmin>
+  <AddCustomer>Add Customer</AddCustomer>
+  <PrintDefaults>Print Defaults</PrintDefaults>
+  <ChoicingPrinter>Choicing Printer</ChoicingPrinter>
+  <ChoicePrinterYouWant2Use>Choice printer name you want to use</ChoicePrinterYouWant2Use>
+  <EditUsersPrivileges>Edit Users Privileges</EditUsersPrivileges>
+  <AddProfile>Add Profile</AddProfile>
+  <EditProfile>Edit Profile</EditProfile>
+  <ViewSettings>View Settings</ViewSettings>
+  <ReviewRecords>Review Records</ReviewRecords>
+  <DeliveryOffices>Delivery Offices</DeliveryOffices>
+  <!--*************************End Forms Texts*******************************-->
+  <CustomersDatabase>Customers Database</CustomersDatabase>
+  <ManifestInfo>Manifest Information</ManifestInfo>
+  <ManifestNo>Manifest Number</ManifestNo>
+  <DriverName>Driver Name</DriverName>
+  <CarNo>Car Number</CarNo>
+  <AddDriver>Add Driver</AddDriver>
+  <Contents>Package Contents</Contents>
+  <VisitDate>Visit Date</VisitDate>
+  <VisitTime>Visit Time</VisitTime>
+  <VisitsRecordOf>Visits Record For: </VisitsRecordOf>
+  <ActivateCard>Activate Card</ActivateCard>
+  <Print>Print</Print>
+  <Search>Search</Search>
+  <SearchResults>Search Results</SearchResults>
+  <ManualAdd>Manual Add</ManualAdd>
+  <EditPrivileges>Edit Privileges</EditPrivileges>
+  <Privileges>Privileges</Privileges>
+  <ExportData>Export Data</ExportData>
+  <ImagePreview>Image Preview</ImagePreview>
+  <Capture>Capture</Capture>
+  <LoadImage>Load Image</LoadImage>
+  <ReceiptDate>Receipt Date</ReceiptDate>
+  <BooksCount>Books Count</BooksCount>
+  <ReceiptNo>Receipt No</ReceiptNo>
+  <Receipt>Receipt</Receipt>
+  <FromNumber>From Number</FromNumber>
+  <ToNumber>To Number</ToNumber>
+  <ExchangeDate>Exchange Date</ExchangeDate>
+  <ExchangeNo>Exchange No</ExchangeNo>
+  <Exchange>Exchange</Exchange>
+  <Date>Date</Date>
+  <OldValues>Old Values</OldValues>
+  <NewValues>New Values</NewValues>
+  <TotalRecordsCount>Total Records Count</TotalRecordsCount>
+  <LastRecord>Goto Last Record</LastRecord>
+  <FirstRecord>Goto First Record</FirstRecord>
+  <PreviousRecord>Goto Previous Record</PreviousRecord>
+  <NextRecord>Goto Next Record</NextRecord>
+  <CurrentRecord>Current Record</CurrentRecord>
+  <Mother>Mother</Mother>
+  <Place>Place</Place>
+  <Municipality>Municipality</Municipality>
+  <Administrator>Administrator</Administrator>
+  <SuperUser>Super User</SuperUser>
+  <User>User</User>
+  <NormalWindow>Normal Window</NormalWindow>
+  <MinWindow>Mini Window</MinWindow>
+  <Database>Database</Database>
+  <TheUser>User</TheUser>
+  <Connected>Connected</Connected>
+  <NotConnected>Not Connected</NotConnected>
+  <Version>Version</Version>
+  <BarcodeConnected>Barcode Is Connected</BarcodeConnected>
+  <BarcodeConnectedNotCert>Barcode Is Connected But Not Certified</BarcodeConnectedNotCert>
+  <BarcodeNotConnected>Barcode Is Not Connected</BarcodeNotConnected>
+  <AboutProgram>About Program</AboutProgram>
+  <LocalPC>Local Computer</LocalPC>
+  <ExcelFile>Excel File</ExcelFile>
+  <TheProfiles>The Profiles</TheProfiles>
+  <Edit>Edit</Edit>
+  <Delete>Delete</Delete>
+  <BackupFile>Backup File</BackupFile>
+  <RestoreABackup>Restore A Backup</RestoreABackup>
+  <BarcodeSettings>Barcode Settings</BarcodeSettings>
+  <TypeOfUsedBarcode>Type Of Used Barcode</TypeOfUsedBarcode>
+  <InputPortNoTheBarcodeConnectedToIt>Input Port Number The Barcode Connected To It... For Example (COM3)</InputPortNoTheBarcodeConnectedToIt>
+  <Second>Second</Second>
+  <VisitsRecord>Visits Record</VisitsRecord>
+  <PeriodBetweenImages>Period Between Images In Mini &amp;Window</PeriodBetweenImages>
+  <ViewIncompletedInfoFor>View Incompleted Information Message For Theses Fields</ViewIncompletedInfoFor>
+  <ScannerSettings>Scanner Settings</ScannerSettings>
+  <DocumentsCaptureOptions>Documents Capture Options</DocumentsCaptureOptions>
+  <IDCardCaptureOptions>ID Card Capture Options</IDCardCaptureOptions>
+  <ImageSaveOptions>Image Save Options</ImageSaveOptions>
+  <SelectDevice4IDCapture>Select Device For ID Card Capture</SelectDevice4IDCapture>
+  <SelectDevice4DocumentsCapture>Select Device For Documents Capture</SelectDevice4DocumentsCapture>
+  <ImageType>Image Type</ImageType>
+  <ImageQuality>Image Quality</ImageQuality>
+  <ImagesPath>Images Path</ImagesPath>
+  <SynchronizeAt>Synchronize At Time</SynchronizeAt>
+  <EveryDay>Every Day</EveryDay>
+  <RecordsInSearch>Records In Search Window</RecordsInSearch>
+  <From>From</From>
+  <Remove>Remove</Remove>
+  <Black>Black</Black>
+  <TheMenu>Menu</TheMenu>
+  <Add>Add</Add>
+  <Done>Done</Done>
+  <Review>Review</Review>
+  <LockRecord>Lock Record</LockRecord>
+  <UnlockRecord>Unlock Record</UnlockRecord>
+  <RegisterFingerprint>Register Fingerprint</RegisterFingerprint>
+  <Error>Error</Error>
+  <NoPhotos>No Photos for ID card</NoPhotos>
+  <PhotosNotClear>ID card photos are not clear</PhotosNotClear>
+  <IncompletedInfo>Incompleted Information</IncompletedInfo>
+  <CompleteInfo>Complete Information</CompleteInfo>
+  <InfoCompletion>Information Completion</InfoCompletion>
+  <Photo1NotClear>ID card photo1 not clear</Photo1NotClear>
+  <Photo2NotClear>ID card photo2 not clear</Photo2NotClear>
+  <NoPhoto1>ID card photo1 not exists</NoPhoto1>
+  <NoPhoto2>ID card photo2 not exists</NoPhoto2>
+  <NoFingerprint>Fingerprint not exists</NoFingerprint>
+  <CompleteInfoPlease>Complete customer information please</CompleteInfoPlease>
+  <DefinePrinters>Define Printers</DefinePrinters>
+  <DriverCard>Driver Card</DriverCard>
+  <Driver>Driver</Driver>
+  <Drivers>Drivers</Drivers>
+  <EmployeeCard>Employee Card</EmployeeCard>
+  <Employee>Employee</Employee>
+  <Internal>Internal</Internal>
+  <External>External</External>
+  <Contacts>Contacts</Contacts>
+  <AdditionalContacts>Additional Contacts</AdditionalContacts>
+  <Branch>Branch</Branch>
+  <Branches>Branches</Branches>
+  <ManifestTemplates>Manifest Templates</ManifestTemplates>
+  <NewTemplate>New Template</NewTemplate>
+  <ProgramAdmin>Program Administrator</ProgramAdmin>
+  <StationAdmin>Station Administrator</StationAdmin>
+  <DiliveryAdmin>Dilivery Administrator</DiliveryAdmin>
+  <BranchName>Branch Name</BranchName>
+  <OfficeName>Office Name</OfficeName>
+  <Sequence>Seq</Sequence>
+  <Standard>Standard</Standard>
+  <ChooseBookType>Choose Book Type, Please.</ChooseBookType>
+  <SpecifyFirstNoOfReceivedBooks>Specify First No Of Received Books</SpecifyFirstNoOfReceivedBooks>
+  <DefineSourceOffice>Please define source office</DefineSourceOffice>
+  <DefineOffice>Define Office</DefineOffice>
+  <DefineBranch>Define Branch</DefineBranch>
+  <Recipient>Recipient</Recipient>
+	<Sender>Sender</Sender>
+	<Senders>Senders</Senders>
+	<SenderCard>Sender Card</SenderCard>
+  <ArrivalBranch>Arrival Branch</ArrivalBranch>
+  <ChooseMarkterName>Choose Markter Name</ChooseMarkterName>
+  <SessionName>Session Name</SessionName>
+  <SessionDate>Session Date</SessionDate>
+  <SessionTime>Session Time</SessionTime>
+  <Paid>Paid</Paid>
+  <Employees>Employees</Employees>
+  <NewEmployee>New Employee</NewEmployee>
+  <NewDriver>New Driver</NewDriver>
+  <NewPackage>New Package</NewPackage>
+  <PackageTypes>Package Types</PackageTypes>
+  <PackageType>Package Type</PackageType>
+  <Fees>Fees</Fees>
+  <SliceName>Slice Name</SliceName>
+  <MinLimit>Minimum Limit</MinLimit>
+  <MaxLimit>Maximum Limit</MaxLimit>
+  <SliceFees>Slice Fees</SliceFees>
+  <Percentage>Percentage</Percentage>
+  <RoundTo>Round To</RoundTo>
+  <Notes>Notes</Notes>
+  <TheNote>The Note</TheNote>
+  <PreviewFont>Preview Font</PreviewFont>
+  <LabelsFont>Labels Font</LabelsFont>
+  <TextBoxesFont>Text Boxes Font</TextBoxesFont>
+  <DatagridsFont>Data Grids Font</DatagridsFont>
+  <DefaultFont>Default Font</DefaultFont>
+  <NewContent>New Content</NewContent>
+  <Email>Email</Email>
+  <ServicesWages>Services Wages</ServicesWages>
+  <Service>Service</Service>
+  <NewService>New Service</NewService>
+  <NewManifest>New Manifest</NewManifest>
+  <BookNotices>Book Notices</BookNotices>
+  <ViewMigrated>View Migrated</ViewMigrated>
+  <ViewUnMigrated>View Un Migrated</ViewUnMigrated>
+  <DestinationNotIdentical>Destination Not Identical</DestinationNotIdentical>
+  <ContentsNotIdentical>Contents Not Identical</ContentsNotIdentical>
+  <NoticeNoNotExists>Notice No Not Exists</NoticeNoNotExists>
+	<NoticeForgotten>Notice Forgotten</NoticeForgotten>
+	<NoticeInComingByFault>Notice Incoming By Fault</NoticeInComingByFault>
+  <NoticeNo>Notice Number</NoticeNo>
+  <Default>Default</Default>
+  <SetDefault>Set Default</SetDefault>
+  <ManifestNoEmpty></ManifestNoEmpty>
+  <CarNoEmpty></CarNoEmpty>
+  <DriverNameEmpty></DriverNameEmpty>
+	<CenterName>Center Name</CenterName>
+    <ChooseDestinationFirst>Choose Destination First, Then Choose Delivery</ChooseDestinationFirst>
+    <NoDestinationsFound>No Destinations Found! Please Add Destinations Then Try Later</NoDestinationsFound>
+    <NoDeliveriesFound>No eliveries Found Is This Branch</NoDeliveriesFound>
+	<ShortcutManagement>Shortcut Buttons Management</ShortcutManagement>
+	<Shortcut>Shortcut</Shortcut>
+	<NewShortcut>New Shortcut</NewShortcut>
+	<LogInName>Login Name</LogInName>>
+	<fillAllFields>fill All Fields Please</fillAllFields>
+	<AvailableNumbers>Available Numbers</AvailableNumbers>
+	<BooksReceivedSuccessfully>Books Received Successfully</BooksReceivedSuccessfully>
+	<BooksNotExists>Theses numbers not exists in our center</BooksNotExists>
+	<BooksFaild2Receive>Books Faild to Receive</BooksFaild2Receive>
+</en>

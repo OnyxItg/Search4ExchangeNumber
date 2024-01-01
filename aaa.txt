@@ -1,0 +1,4 @@
+[MoneyTransferOrderRelease] حوالات وادة
+
+[MoneyTransferTransactionSource] حوالات مقبوضة
+[MTTS_IssuedBy] رقم المحاسب ضمن الفرع
